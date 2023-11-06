@@ -1,0 +1,9 @@
+# Node
+node_modules
+
+# CodeQL
+.cql
+
+# Misc
+.DS_Store
+tasks/004_codeql/cqldb/

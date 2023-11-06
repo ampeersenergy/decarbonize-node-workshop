@@ -1,0 +1,8 @@
+# Node.Js
+node_modules
+
+# macOS
+.DS_Store
+
+# project
+dist

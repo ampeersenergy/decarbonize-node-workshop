@@ -1,0 +1,3 @@
+name: decarbonize-node-workshop
+version: 1.0.0
+libraryPathDependencies: codeql-javascript

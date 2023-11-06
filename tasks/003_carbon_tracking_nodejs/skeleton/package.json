@@ -1,0 +1,11 @@
+{
+    "name": "project",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "UNLICENSED",
+    "dependencies": {
+      "@tgwf/co2": "^0.13.8",
+      "fastify": "^4.24.3"
+    }
+  }
+  

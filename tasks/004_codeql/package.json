@@ -1,0 +1,10 @@
+{
+  "name": "004_codeql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "lodash": "^4.17.21"
+  }
+}
