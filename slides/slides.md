@@ -189,7 +189,7 @@ layout: default
 layout: fact
 ---
 
-## npx decarbonize-node
+## npx decarbonize-node@latest
 
 ---
 layout: fact
