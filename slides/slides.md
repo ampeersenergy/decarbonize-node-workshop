@@ -195,6 +195,14 @@ layout: fact
 layout: fact
 ---
 
+## if not ...
+### git clone git@github.com:ampeersenergy/decarbonize-node-workshop
+### git clone git@github.com:ampeersenergy/squirrels-sift
+
+---
+layout: fact
+---
+
 # Cloud Carbon Emissions
 
 ---
