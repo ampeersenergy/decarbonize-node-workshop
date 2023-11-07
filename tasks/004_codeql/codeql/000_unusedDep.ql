@@ -83,5 +83,6 @@ from NpmPackage pkg, string name, JsonValue dep
 where
   exists(pkg.getAModule()) and
   // TODO: the pkg, name and dep values have to be filled / set
+  //       you can use a existing predicate ;)
   not usesDependency(pkg, name)
 select dep, "Unused dependency '" + name + "'."

@@ -42,10 +42,14 @@ codeql database create cqldb \
   --overwrite 
 ```
 
+## About CodeQL Structure
+
+[Tutorial](https://github.blog/2023-06-15-codeql-zero-to-hero-part-2-getting-started-with-codeql/#basic-codeql-query)
+
 ## Run it
 
 * Import database via VScode plugin
-* Run `>CodeQL: Run Query on Selected Database` on your query - for example codeql/
+* Run `>CodeQL: Run Query on Selected Database` on your query
 
 ## Examples
 

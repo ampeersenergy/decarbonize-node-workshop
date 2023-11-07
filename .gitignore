@@ -3,6 +3,7 @@ node_modules
 
 # CodeQL
 .cql
+cqldb
 
 # Misc
 .DS_Store
